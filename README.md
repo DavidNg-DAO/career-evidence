@@ -27,3 +27,15 @@ See: `peter mars.png`
 - Fintech & SaaS Growth
 
 More professional achievements and certifications will be added over time.
+## AEC / BIM Learning
+
+### buildingSMART Professional Certification – Entry Badge
+Completed the buildingSMART Entry-level openBIM assessment and earned the Entry Badge.
+
+### Graphisoft – Getting Started with Archicad
+Completed Graphisoft's Getting Started with Archicad training with a 100% assessment score.
+
+### Graphisoft – Share Your Archicad Project with BIMx
+Completed the BIMx training assessment with a 100% score.
+
+These courses support my ongoing development in AEC/BIM technology and complement my enterprise technology and channel-sales background.
